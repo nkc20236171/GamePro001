@@ -7,7 +7,7 @@ InputManager:
   m_Axes:
   - serializedVersion: 3
     m_Name: Horizontal
-    descriptiveName: 
+    descriptiveName: s
     descriptiveNegativeName: 
     negativeButton: left
     positiveButton: right
@@ -23,7 +23,7 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Vertical
-    descriptiveName: 
+    descriptiveName: w
     descriptiveNegativeName: 
     negativeButton: down
     positiveButton: up
@@ -39,9 +39,9 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Fire1
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
+    descriptiveName: s
+    descriptiveNegativeName: s
+    negativeButton: s
     positiveButton: left ctrl
     altNegativeButton: 
     altPositiveButton: mouse 0
@@ -55,9 +55,9 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Fire2
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
+    descriptiveName: w
+    descriptiveNegativeName: w
+    negativeButton: w
     positiveButton: left alt
     altNegativeButton: 
     altPositiveButton: mouse 1
@@ -71,9 +71,9 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Fire3
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
+    descriptiveName: q
+    descriptiveNegativeName: q
+    negativeButton: q
     positiveButton: left shift
     altNegativeButton: 
     altPositiveButton: mouse 2
@@ -151,7 +151,7 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Horizontal
-    descriptiveName: 
+    descriptiveName: z
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 
@@ -485,3 +485,4 @@ InputManager:
     type: 2
     axis: 5
     joyNum: 0
+  m_UsePhysicalKeys: 1
